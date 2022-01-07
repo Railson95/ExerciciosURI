@@ -54,5 +54,7 @@ function calculaQtdDeTroco(dinheiro, bancoDenotasMoedas){
 
 calculaQtdDeTroco(dinheiro, bancoDeNotasMoedas);
 
+//atualização qualquer
+
 
 
