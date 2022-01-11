@@ -42,9 +42,7 @@ for(var i = 0; i < totalEntradas; i++){
             console.log(anos + " anos.");
             anos = 0;
         }    
-    }
-
-    
+    }  
 }
 
 
